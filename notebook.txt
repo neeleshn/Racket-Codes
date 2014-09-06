@@ -1,0 +1,23 @@
+Date	Who	Start	Stop	Interruptions Question TimeOnTask Comments
+
+9/5   Neelesh	17:03	17:05			1	2	  Analyzed Question 1
+9/5   Neelesh	17:06	17:09			1	3	  Completed Question 1
+9/5   Neelesh	17:10	17:12			2	2	  Analyzed Question 2
+9/5   Neelesh	17:13	17:15			2	2	  Completed Question 2
+9/5   Neelesh	17:47	17:49			3	2	  Analyzed Question 3
+9/5   Neelesh	17:51	17:53			3	2	  Completed Question 3
+9/5   Neelesh	17:13	17:15			4	2	  Analyzed Question 4
+9/5   Neelesh	17:17	17:19			4	2	  Completed Question 4
+9/5   Neelesh	17:21	17:23			5	2	  Analyzed Question 5
+9/5   Neelesh	17:25	17:28			5	3	  Completed Question 5
+9/5   Neelesh	17:30	17:34			6	4	  Analyzed Question 6
+9/5   Neelesh	17:35	17:40			6	5	  Completed Question 6
+9/5   Neelesh	17:42	17:44			7	2	  Analyzed Question 7
+9/5   Neelesh	17:45	17:48			7	3	  Completed Question 7
+9/5   Neelesh	17:49	17:51			8	2	  Analyzed Question 8
+9/5   Neelesh	17:53	17:56			8	3	  Completed Question 8
+9/5   Neelesh	17:57	18:07			9	10	  Analyzed Question 9
+9/5   Neelesh	18:10	18:30			9	20	  Completed Question 9
+9/5   Neelesh	18:31	18:33			10	2	  Analyzed Question 10
+9/5   Neelesh	18:34	18:39			10	5	  Completed Question 10
+
