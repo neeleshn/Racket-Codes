@@ -11,13 +11,13 @@
 (modulo -11 5)
 (modulo -11 -5)
 
-(define (even-new? n)
+(define (even n)
   (cond
     [(= (remainder n 2) 0) true]
     [else false]))
 
-(even-new? 10)
-(even-new? -10)
-(even-new? -11)
-(even-new? 11)
+(even 10)
+(even -10)
+(even -11)
+(even 11)
      
